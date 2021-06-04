@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+}
+/* Thanh nav */
+.nav-item{
+    padding: 5px 60px 10px;
+}
+.navbar{
+    background-color: rgba(11, 43, 58, 0.466);
+}
+.nav-link{
+    color: black;
+}
+/* thanh tim kiem */
+.input-group{
+    width: 400px;
+}
+  .h2 {
+    background-color: white;
+    height: 30px;
+}
+.h2 span{
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 10px;
+    height: 50px;
+}
+
+/* img.img-thumbnail{
+  border: none;
+  
+} */
+
+#bst{
+  background-color: rgb(221, 228, 235);
+}
+.xemtatca{
+  border: 1px solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-style: hidden;
+}
+#xemtc{
+  text-decoration: none;
+  color: #555;
+}
+.dropdown-menu{
+  border: none;
+  background-color: #f8f9fa;
+}
+.dropdown-item{
+  height: 70px;
+  width: 200px;
+}
+.body .slideProducts:hover{
+  transform: scale(1.1);
+  z-index: 10;
+  background: #25bcff;
+  box-shadow: 0 5px 25px rgba(0,0,0,.2);
+  color: #fff;
+  opacity: 1;
+}
+#img-all:hover{
+opacity: 1;
+  }

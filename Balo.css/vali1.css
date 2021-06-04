@@ -1,0 +1,9 @@
+.nav-item{
+    padding: 5px 60px 10px;
+}
+.navbar{
+    background-color: rgba(11, 43, 58, 0.466);
+}
+.nav-link{
+    color: black;
+}

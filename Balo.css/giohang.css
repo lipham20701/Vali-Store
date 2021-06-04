@@ -1,0 +1,50 @@
+.nav-item{
+    padding: 5px 60px 10px;
+}
+.navbar{
+    background-color: rgba(11, 43, 58, 0.466);
+}
+.nav-link{
+    color: black;
+}
+.section{
+    padding:5% 10%;
+    height: 110vh;
+  }
+  .section article{
+    height: 70vh;
+    overflow-y: auto;
+  }
+  .list-cart{
+    width: 100%;
+  }
+  .list-cart tr{
+    border-top: 1px solid var(--white1);
+  }
+  .list-cart tr td{
+    margin: 10px 0;
+  }
+  .totalmoney{
+    font-size: 1.5rem;
+    font-weight: 900;
+  }
+  .delete{
+    background-color: var(--white);
+    border: 1px solid var(--black);
+  }
+  .delete:hover{
+    background-color: var(--black);
+    color: var(--white);
+    border: 1px solid var(--white);
+  }
+  .btntt{
+    width: 200px;
+    height: 50px;
+    background-color: var(--black);
+    border: 1px solid var(--black);
+    color: var(--white);
+    opacity: 1;
+  }
+  .btntt:hover{
+    opacity: 0.8;
+  }
